@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "13",
+      "firstName": "Tom",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "firstName": "pooja",
+      "age": 20,
+      "companyId": "1",
+      "id": "gL-1S6D"
+    },
+    {
+      "firstName": "Srikanth",
+      "age": 20,
+      "companyId": "2",
+      "id": "NWRxIhn"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "description": "Cofroge"
+    },
+    {
+      "id": "2",
+      "description": "Google"
+    }
+  ]
+}
